@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76835738132",
+    "project_id": "natchanan-lordee",
+    "storage_bucket": "natchanan-lordee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76835738132:android:21d1172e6b87ac13930d01",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDID9ZVAcYv1tACpa9k63unn09HyJl2alQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76835738132:android:723fdf57d1af420f930d01",
+        "android_client_info": {
+          "package_name": "com.example.flutter_artist_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDID9ZVAcYv1tACpa9k63unn09HyJl2alQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
